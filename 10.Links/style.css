@@ -1,0 +1,12 @@
+
+.p-welcome{
+  font-size: 50px;
+  line-height: 30px;
+  font-family: nos;
+}
+
+div{
+  width: 300px;
+  height: 200px;
+  background-color: red;
+}
